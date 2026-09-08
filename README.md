@@ -43,8 +43,10 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OZIKRICH&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OZIKRICH&layout=compact&theme=radial)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=OZIKRICH&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OZIKRICH&layout=compact&theme=radial)
 
 ---
 
