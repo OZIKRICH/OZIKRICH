@@ -50,9 +50,8 @@
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio/Website:** *[Link to your portfolio]*
-- 📧 **Email:** *[your-email@example.com]*
-- 💬 **Discord:** *[Your Discord Tag]*
+- 📧 **Email:** *ozikrich@gmail.com*
+- 💬 **Discord:** *OZIKRICH*
 
 ---
 *“It’s not about the machine, it’s about the logic behind it.”* 🚀
