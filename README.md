@@ -1,6 +1,7 @@
 # Hi there, I'm Ozikri 👋
 
 🎓 **Software Engineering Student**  
+**Head Developer Of My School Teaching Factory**
 🇮🇩 **Native Indonesian** | 🗣️ **Languages:** Indonesian (Native), English (Conversational)  
 💻 Passionate about **Web Development** and **Game Development**  
 ⚡ *Coding with passion and a potato laptop!* 🥔💻
